@@ -1,4 +1,4 @@
-#Simple example
+## Simple example
 ```
 #include <stdio.h>
 #include "datetime.h"
